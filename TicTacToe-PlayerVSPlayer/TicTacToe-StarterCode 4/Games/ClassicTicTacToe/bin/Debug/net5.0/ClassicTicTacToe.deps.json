@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassicTicTacToe/1.0.0": {
+        "dependencies": {
+          "TicTacToeFramework": "1.0.0"
+        },
+        "runtime": {
+          "ClassicTicTacToe.dll": {}
+        }
+      },
+      "TicTacToeFramework/1.0.0": {
+        "runtime": {
+          "TicTacToeFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassicTicTacToe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TicTacToeFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

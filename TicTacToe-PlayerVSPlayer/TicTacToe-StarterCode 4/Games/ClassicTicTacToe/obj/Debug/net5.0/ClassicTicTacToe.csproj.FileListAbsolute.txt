@@ -1,0 +1,37 @@
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.exe
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.deps.json
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.runtimeconfig.json
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.runtimeconfig.dev.json
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.dll
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ref/ClassicTicTacToe.dll
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.pdb
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/TicTacToeFramework.dll
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/bin/Debug/net5.0/TicTacToeFramework.pdb
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csprojAssemblyReference.cache
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.AssemblyInfoInputs.cache
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.AssemblyInfo.cs
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csproj.CoreCompileInputs.cache
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csproj.CopyComplete
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.dll
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ref/ClassicTicTacToe.dll
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.pdb
+C:/Users/Sam/source/repos/TicTacToe-main/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.genruntimeconfig.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csprojAssemblyReference.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.AssemblyInfoInputs.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.AssemblyInfo.cs
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csproj.CoreCompileInputs.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ref/ClassicTicTacToe.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.pdb
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.deps.json
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.runtimeconfig.json
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.runtimeconfig.dev.json
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ref/ClassicTicTacToe.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/ClassicTicTacToe.pdb
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/TicTacToeFramework.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/bin/Debug/net5.0/TicTacToeFramework.pdb
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.csproj.CopyComplete
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/Games/ClassicTicTacToe/obj/Debug/net5.0/ClassicTicTacToe.genruntimeconfig.cache
