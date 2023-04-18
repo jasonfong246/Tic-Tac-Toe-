@@ -1,0 +1,36 @@
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/bin/Debug/net5.0/TicTacToeFramework.deps.json
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/bin/Debug/net5.0/TicTacToeFramework.dll
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/bin/Debug/net5.0/ref/TicTacToeFramework.dll
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/bin/Debug/net5.0/TicTacToeFramework.pdb
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.csprojAssemblyReference.cache
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.AssemblyInfoInputs.cache
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.AssemblyInfo.cs
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.csproj.CoreCompileInputs.cache
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.dll
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/ref/TicTacToeFramework.dll
+C:/Users/Sam/source/repos/TicTacToe-main/GameFramework/obj/Debug/net5.0/TicTacToeFramework.pdb
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/bin/Debug/net5.0/TicTacToeFramework.deps.json
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/bin/Debug/net5.0/TicTacToeFramework.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/bin/Debug/net5.0/ref/TicTacToeFramework.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/bin/Debug/net5.0/TicTacToeFramework.pdb
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.csprojAssemblyReference.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.AssemblyInfoInputs.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.AssemblyInfo.cs
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.csproj.CoreCompileInputs.cache
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/ref/TicTacToeFramework.dll
+/Users/Sam/Downloads/TicTacToe-StarterCode 4/GameFramework/obj/Debug/net5.0/TicTacToeFramework.pdb
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\bin\Debug\net5.0\TicTacToeFramework.deps.json
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\bin\Debug\net5.0\TicTacToeFramework.dll
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\bin\Debug\net5.0\TicTacToeFramework.pdb
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.AssemblyInfo.cs
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.dll
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\refint\TicTacToeFramework.dll
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\TicTacToeFramework.pdb
+C:\Users\user\Downloads\TicTacToe-PlayerDumb\TicTacToe-StarterCode 4\GameFramework\obj\Debug\net5.0\ref\TicTacToeFramework.dll
